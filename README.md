@@ -1,6 +1,6 @@
 # OctoPrint-Wled
 
-**TODO:** Describe what your plugin does.
+Allows access to your Wled config page right from Octoprint.
 
 ## Setup
 
